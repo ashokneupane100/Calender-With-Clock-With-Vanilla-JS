@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Roboto:ital,wght@0,400;1,900&display=swap");
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  background-color: salmon;
+  font-family: "Anton, Roboto", cursive, sans, bold;
+  font-size: 2em;
+}
